@@ -1,0 +1,19 @@
+{
+  "services": [
+    {
+      "name": "Manutenção",
+      "description": "Revisão completa",
+      "basePrice": 150,
+      "createdAt": "2021-03-16T00:59:25.290Z",
+      "id": 1
+    },
+    {
+      "name": "Troca de óleo",
+      "description": "",
+      "basePrice": 50,
+      "createdAt": "2021-03-17T02:56:43.293Z",
+      "id": 2
+    }
+  ],
+  "schedules": []
+}
